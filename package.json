@@ -14,7 +14,7 @@
     "gray-matter": "^4.0.3",
     "klaw-sync": "^6.0.0",
     "lucide-react": "^0.424.0",
-    "mermaid": "^11.9.0",
+    "mermaid": "^11.17.2",
     "next": "15.5.4",
     "next-mdx-remote": "^5.0.0",
     "postcss-flexbugs-fixes": "^5.0.2",
